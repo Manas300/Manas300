@@ -1,4 +1,5 @@
 # Hi there, I'm Manas Singh! 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 [![Hits](https://hits.sh/github.com/Manas300.svg?style=for-the-badge)](https://hits.sh/github.com/Manas300/)
 
