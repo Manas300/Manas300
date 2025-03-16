@@ -1,7 +1,7 @@
 <div align="center" valign="center">
   <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-wave.gif" width="60" height="60" />
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=700&size=50&duration=3000&pause=1000&color=5CFF5C&center=true&vCenter=true&width=800&height=80&lines=WELCOME+TO+MANAS%27S+GITHUB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=34&pause=2000&color=FDA620CD&center=true&width=435&lines=Welcome+to+Manas's+Github!" alt="Typing SVG" /></a>
   <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-wave.gif" width="60" height="60" />
 </div>  
 &nbsp;
