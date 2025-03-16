@@ -1,5 +1,7 @@
 # Hi there, I'm Manas Singh! 👋
 
+[![Hits](https://hits.sh/github.com/Manas300.svg?style=for-the-badge)](https://hits.sh/github.com/Manas300/)
+
 Welcome to my GitHub profile! I'm a **graduate student at Stevens Institute of Technology**, pursuing my Master's in Computer Science. I have experience in **MLOps, Cloud Computing, and Financial Technology** and love building scalable, efficient, and innovative solutions. 
 
 ---
