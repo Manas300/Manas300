@@ -1,6 +1,6 @@
 <div align="center" valign="center">
   <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-wave.gif" width="60" height="60" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=5CFF5C&background=000000&center=true&vCenter=true&width=700&height=70&lines=WELCOME+TO+MANAS%27S+BATTLESTATION!;SPARTAN-300+REPORTING+FOR+DUTY!;GAME+DEV+%7C+AI+SPECIALIST+%7C+CODER" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=700&size=50&duration=3000&pause=1000&color=5CFF5C&center=true&vCenter=true&width=800&height=80&lines=WELCOME+TO+MANAS%27S+GITHUB" alt="Typing SVG" /></a>
   <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-wave.gif" width="60" height="60" />
 </div>  
 &nbsp;
