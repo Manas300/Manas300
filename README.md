@@ -17,12 +17,13 @@
 2. [My Stats](#my-stats)  
 3. [A Brief Overview on All Repositories](#a-brief-overview-on-all-repositories)  
 4. [About My Repositories and Programming Experience](#about-my-repositories-and-programming-experience)
-5. [Goodbye, and...](#goodbye-and)
-6. [THANK YOU!!](#thank-you)
-___
+5. [Connect With Me](#connect-with-me)
+6. [Goodbye, and...](#goodbye-and)
+7. [THANK YOU!!](#thank-you)
+
 ## Introduction
 <p>I'm a Master's student in Computer Science at <strong>Stevens Institute of Technology</strong> 🎓. I specialize in <strong>cloud architecture ☁️</strong>, <strong>MLOps 🤖</strong>, <strong>backend engineering 💻</strong>, and <strong>full-stack development 🌐</strong>. With a strong background in <strong>AWS 🌟</strong>, <strong>Kubernetes 🐳</strong>, and <strong>predictive modeling 📊</strong>, I focus on building scalable solutions and optimizing workflows 🚀.</p>
-___
+
 ## My Stats:
 <div  align="center" valign="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manas300&bg_color=e0f0d4&border_color=a3c986&text_color=5c8040&title_color=f2f9f2&icon_color=f2f9f2&show_icons=true" height="180" href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,7 +35,6 @@ ___
   </div>
 </div>
 
-___
 ## A Brief Overview on All Repositories:
 **[halo-game-clone](https://github.com/Manas300/halo-game-clone)** - A mini Halo-inspired FPS game created in Unity with advanced AI enemies  
 **[ai-npc-behavior](https://github.com/Manas300/ai-npc-behavior)** - Intelligent NPC behavior system using machine learning algorithms  
@@ -43,7 +43,7 @@ ___
 **[multiplayer-framework](https://github.com/Manas300/multiplayer-framework)** - Lightweight framework for implementing multiplayer features in games  
 
 __*Note: some projects are works in progress and will be updated regularly*__
-___ 
+
 ## About My Repositories and Programming Experience:
 🎲 I'm currently working on developing game mechanics and AI systems for NPCs in Unity.
 
@@ -101,4 +101,16 @@ ___
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitch.tv/manas300">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+</div>
+
+## Goodbye, and...
+<div align="center">
+  <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-salute.gif" width="120" height="120" />
+</div>
+
+## THANK YOU!!
+<div align="center">
+  Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me!
+</div>
