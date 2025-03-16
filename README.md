@@ -13,29 +13,15 @@
 <hr/>
 
 ## Table of Contents:  
-1. [Introduction](#introduction)  
-2. [A Little More About Me](#a-little-more-about-me)  
-3. [My Stats](#my-stats)  
-4. [A Brief Overview on All Repositories](#a-brief-overview-on-all-repositories)  
-5. [About My Repositories and Programming Experience](#about-my-repositories-and-programming-experience)
-6. [Goodbye, and...](#goodbye-and)
-7. [THANK YOU!!](#thank-you)
+1. [Introduction](#introduction)   
+2. [My Stats](#my-stats)  
+3. [A Brief Overview on All Repositories](#a-brief-overview-on-all-repositories)  
+4. [About My Repositories and Programming Experience](#about-my-repositories-and-programming-experience)
+5. [Goodbye, and...](#goodbye-and)
+6. [THANK YOU!!](#thank-you)
 ___
 ## Introduction
-🎮 Hi, I'm Manas. As a __Computer Science__ enthusiast and gaming aficionado, I've earned my __Bachelors of Science in Computer Science__ while undertaking the __Undergraduate Research Opportunity Program__ from August [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=40&height=18&lines=2022)](https://git.io/typing-svg) to June [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=40&height=18&lines=2023)](https://git.io/typing-svg) and am pursuing my __Masters in Computer Science__ with a focus on __Game Development__ and __AI Systems__.
-
-🛡️ With a 
-__[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=25&height=18&lines=3.8)](https://git.io/typing-svg) GPA__ and making the dean's list [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=10&height=18&lines=5)](https://git.io/typing-svg) times, I've been balancing my academic pursuits with my passion for gaming and software development. Currently, I maintain a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA in my Masters program.
-
-🔫 I'm interested in Game Development, AI/ML, and Software Engineering. Currently, I am __seeking an internship__ position remote or in-person for Summer [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg). I love to work in teams that are dedicated and passionate about creating immersive experiences through code.
-___
-## A Little More About Me:
-🎯 Outside of programming, my main interests and hobbies are gaming (especially Halo and other FPS games), 3D modeling, digital art, and exploring new technologies. I also enjoy participating in game jams and hackathons.
-
-🌍 As for my background, I am fluent in English and Hindi and have spent over [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=8&height=18&lines=4)](https://git.io/typing-svg) years studying Japanese. My gaming journey started when I was [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=8&height=18&lines=7)](https://git.io/typing-svg) years old, and it has shaped my interest in technology and computer science ever since.
-
-🧠 In terms of character, my most pronounced characteristics are my *strategic thinking*, *problem-solving skills*, *creativity*, and *teamwork*; 
-but also my *perfectionism*. I believe in acknowledging both strengths and areas for improvement, as this is essential for growth both in gaming and in life.
+<p>I'm a Master's student in Computer Science at <strong>Stevens Institute of Technology</strong> 🎓. I specialize in <strong>cloud architecture ☁️</strong>, <strong>MLOps 🤖</strong>, <strong>backend engineering 💻</strong>, and <strong>full-stack development 🌐</strong>. With a strong background in <strong>AWS 🌟</strong>, <strong>Kubernetes 🐳</strong>, and <strong>predictive modeling 📊</strong>, I focus on building scalable solutions and optimizing workflows 🚀.</p>
 ___
 ## My Stats:
 <div  align="center" valign="center">
