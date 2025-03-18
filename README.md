@@ -97,12 +97,4 @@ __*Note: some projects are works in progress and will be updated regularly*__
   </a>
 </div>
 
-## Goodbye, and...
-<div align="center">
-  <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-salute.gif" width="120" height="120" />
-</div>
 
-## THANK YOU!!
-<div align="center">
-  Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me!
-</div>
