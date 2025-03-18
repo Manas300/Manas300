@@ -18,8 +18,6 @@
 3. [A Brief Overview on All Repositories](#a-brief-overview-on-all-repositories)  
 4. [About My Repositories and Programming Experience](#about-my-repositories-and-programming-experience)
 5. [Connect With Me](#connect-with-me)
-6. [Goodbye, and...](#goodbye-and)
-7. [THANK YOU!!](#thank-you)
 
 ## Introduction
 <p>I'm a Master's student in Computer Science at <strong>Stevens Institute of Technology</strong> 🎓. I specialize in <strong>cloud architecture ☁️</strong>, <strong>MLOps 🤖</strong>, <strong>backend engineering 💻</strong>, and <strong>full-stack development 🌐</strong>. With a strong background in <strong>AWS 🌟</strong>, <strong>Kubernetes 🐳</strong>, and <strong>predictive modeling 📊</strong>, I focus on building scalable solutions and optimizing workflows 🚀.</p>
