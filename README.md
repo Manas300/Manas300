@@ -35,8 +35,8 @@
   </div>
 </div>
 
-## A Brief Overview on All Repositories:
-**[halo-game-clone](https://github.com/Manas300/halo-game-clone)** - A mini Halo-inspired FPS game created in Unity with advanced AI enemies  
+// ## A Brief Overview on All Repositories:
+// **[halo-game-clone](https://github.com/Manas300/halo-game-clone)** - A mini Halo-inspired FPS game created in Unity with advanced AI enemies  
 **[ai-npc-behavior](https://github.com/Manas300/ai-npc-behavior)** - Intelligent NPC behavior system using machine learning algorithms  
 **[game-level-generator](https://github.com/Manas300/game-level-generator)** - Procedural game level generator with customizable parameters and themes  
 **[inventory-system](https://github.com/Manas300/inventory-system)** - Modular inventory management system for games with drag-and-drop interface  
