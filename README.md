@@ -37,7 +37,7 @@
 __*Note: some projects are works in progress and will be updated regularly*__
 
 ## About My Repositories:
-**[/AIdrivenCloudResourceManagementSystem :](https://github.com/Manas300/AI-driven-cloud-resource-management-system)** Optimizing cloud-based resource utilization by applying machine learning techniques.  
+**[/AIdrivenCloudResourceManagementSystem :](https://github.com/Manas300/AI-driven-cloud-resource-management-system)** Optimizing cloud-based resource utilization by applying ML techniques.  
 **[/StudyBuddy:](https://github.com/Manas300/Study-buddy)** AI-powered cloud-native educational platform using multi-agent systems for tutoring, curriculum planning, and assessment.
 
 
