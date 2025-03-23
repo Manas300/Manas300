@@ -70,7 +70,7 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
       </td>
       <td align="center" width="33%">
         <a href="https://credentials.databricks.com/3b41a70e-d9d1-46ed-9393-ecfdb74fd276#acc.uLNwsc3B">
-          <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65596536" width="150px">
+          <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" width="150px">
           <br>
           <b>Databricks Fundamentals</b>
         </a>
