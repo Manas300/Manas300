@@ -38,7 +38,7 @@ __*Note: some projects are works in progress and will be updated regularly*__
 
 ## About My Repositories:
 **[/AIdrivenCloudResourceManagementSystem :](https://github.com/Manas300/AI-driven-cloud-resource-management-system)** Optimizing cloud-based resource utilization by applying machine learning techniques.  
-**[/StudyBuddy:](https://github.com/Manas300/Study-buddy)** Cloud-native, AI-driven educational platform that leverages multi-agent systems to provide intelligent tutoring, curriculum planning, and automated assessment capabilities.   
+**[/StudyBuddy:](https://github.com/Manas300/Study-buddy)** Cloud-native, AI-driven educational platform that leverages multi-agent systems to provide tutoring, curriculum planning and assessment capabilities.   
 
 
 🎯 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=7AAC53BB&center=true&vCenter=true&width=30&height=18&lines=10%2B)](https://git.io/typing-svg) __programming langauges__, including:
