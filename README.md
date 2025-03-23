@@ -1,7 +1,7 @@
 <div align="center" valign="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ1M2s5NWNxNTFweDd5cG01cWN2aDl5MWt2cmFjZXoyNTk3aW9lbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90" height="90" />
+  <img src="https://media.giphy.com/media/GExBk9r9lP9LN5j2H5/giphy.gif?cid=790b7611e7cabqrz8yt24ifnb3dlfyzyosorv7lwiy2aoo5f&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="70" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=FDA620CD&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Manas's+Github!" alt="Typing SVG" /></a>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmwwMTJiOTVoMHR5ZG4wYmw0bjluOHp4c2xpYXAwNGlsYnJpdzlueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9Gm71bprCvNaqL/giphy.gif" width="90" height="90" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlxd3drbDQydHUxMHZpNncyOHA0aDhiYnl3NmQ5dndyNHYyeGpxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9oIi9pNflb395seKPP/giphy.gif" width="70" height="70" />
 </div>  
 
 <div align="center">
@@ -24,7 +24,7 @@
 I'm a Master's student in Computer Science at **Stevens Institute of Technology** 🎓. I specialize in **cloud architecture ☁️**, **MLOps 🤖**, **backend engineering 💻**, and **full-stack development 🌐**. With extensive expertise in **AWS 🌟**, **Kubernetes 🐳**, and **predictive modeling 📊**, I focus on building highly scalable, resilient solutions that optimize computational workflows and deliver exceptional performance at scale 🚀. My passion lies in developing intelligent systems that leverage machine learning to solve complex engineering challenges, particularly in distributed and resource-constrained environments.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs1Z2F0ZWxrM2x0MmFrdml1dzZoN2p3ZnhmcGRkb3NibzZpem84eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="220"/>
+  <img src="https://media.giphy.com/media/iFU7R8rH4CiUUcHzk9/giphy.gif?cid=790b7611h4e97qbbfbmd6to3i3aeldoedgjt2ro0yaa6br9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220"/>
 </div>
 
 <a id="-skills"></a>
