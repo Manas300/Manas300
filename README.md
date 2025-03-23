@@ -58,14 +58,14 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
         <a href="https://www.credly.com/badges/84eb1fea-4de2-4b42-bb71-07e84439b70c/linked_in_profile">
           <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150px">
           <br>
-          <b>AWS Certified Solutions Architect – Associate</b>
+          <b>AWS Certified SAA</b>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="https://www.credly.com/earner/earned/badge/6355ce01-cd25-4443-9efd-ed83c225b08a">
           <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150px">
           <br>
-          <b>AWS Certified Machine Learning - Specialty</b>
+          <b>AWS Certified ML - Specialty</b>
         </a>
       </td>
       <td align="center" width="33%">
