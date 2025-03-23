@@ -63,7 +63,7 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
       </td>
       <td align="center" width="33%">
         <a href="https://www.credly.com/earner/earned/badge/6355ce01-cd25-4443-9efd-ed83c225b08a">
-          <img src="https://images.credly.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-MachineLearning-Specialty-2020.png" width="150px">
+          <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150px">
           <br>
           <b>AWS Certified Machine Learning - Specialty</b>
         </a>
