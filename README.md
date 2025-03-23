@@ -1,7 +1,7 @@
 <div align="center" valign="center">
-  <img src="https://media.giphy.com/media/GExBk9r9lP9LN5j2H5/giphy.gif?cid=790b7611e7cabqrz8yt24ifnb3dlfyzyosorv7lwiy2aoo5f&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="70" />
+  <img src="https://media.giphy.com/media/GExBk9r9lP9LN5j2H5/giphy.gif?cid=790b7611e7cabqrz8yt24ifnb3dlfyzyosorv7lwiy2aoo5f&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" height="60" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=57&pause=1000&color=FDA620CD&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Manas's+Github!" alt="Typing SVG" /></a>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlxd3drbDQydHUxMHZpNncyOHA0aDhiYnl3NmQ5dndyNHYyeGpxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9oIi9pNflb395seKPP/giphy.gif" width="70" height="70" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlxd3drbDQydHUxMHZpNncyOHA0aDhiYnl3NmQ5dndyNHYyeGpxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9oIi9pNflb395seKPP/giphy.gif" width="60" height="60" />
 </div>  
 
 <div align="center">
