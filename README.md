@@ -61,7 +61,7 @@ I'm currently working on cutting-edge research in **UAV Network Optimization** u
 This interdisciplinary research combines cloud computing, machine learning, and network optimization to solve next-generation challenges in autonomous aerial systems.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRoNHlzcXZ4YWtzcmdrNXQxMXd1Y3c2MjJmdWl3czBibTJsd25qaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" height="220"/>
+  <img src="https://media.giphy.com/media/1jWbzlKAweG85mBzh1/giphy.gif?cid=790b76118q2tvzd9af15v73hk8vp891kzino8lpe6mtm61o3&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220"/>
 </div>
 
 <a id="-certifications"></a>
