@@ -1,7 +1,7 @@
 <div align="center" valign="center">
-  <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-wave.gif" width="60" height="60" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ1M2s5NWNxNTFweDd5cG01cWN2aDl5MWt2cmFjZXoyNTk3aW9lbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90" height="90" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=FDA620CD&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Manas's+Github!" alt="Typing SVG" /></a>
-  <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-wave.gif" width="60" height="60" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmwwMTJiOTVoMHR5ZG4wYmw0bjluOHp4c2xpYXAwNGlsYnJpdzlueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9Gm71bprCvNaqL/giphy.gif" width="90" height="90" />
 </div>  
 
 <div align="center">
@@ -14,16 +14,17 @@
 ## 📋 Table of Contents  
 1. [🚀 Introduction](#-introduction)
 2. [💻 Skills](#-skills)
-3. [🏆 Certifications](#-certifications)
-4. [🗂️ Featured Projects](#️-featured-projects)
-5. [🔗 Connect With Me](#-connect-with-me)
+3. [🔬 Research Focus](#-research-focus)
+4. [🏆 Certifications](#-certifications)
+5. [🗂️ Featured Projects](#️-featured-projects)
+6. [🔗 Connect With Me](#-connect-with-me)
 
 <a id="-introduction"></a>
 ## 🚀 Introduction
-I'm a Master's student in Computer Science at **Stevens Institute of Technology** 🎓. I specialize in **cloud architecture ☁️**, **MLOps 🤖**, **backend engineering 💻**, and **full-stack development 🌐**. With a strong background in **AWS 🌟**, **Kubernetes 🐳**, and **predictive modeling 📊**, I focus on building scalable solutions and optimizing workflows 🚀.
+I'm a Master's student in Computer Science at **Stevens Institute of Technology** 🎓. I specialize in **cloud architecture ☁️**, **MLOps 🤖**, **backend engineering 💻**, and **full-stack development 🌐**. With extensive expertise in **AWS 🌟**, **Kubernetes 🐳**, and **predictive modeling 📊**, I focus on building highly scalable, resilient solutions that optimize computational workflows and deliver exceptional performance at scale 🚀. My passion lies in developing intelligent systems that leverage machine learning to solve complex engineering challenges, particularly in distributed and resource-constrained environments.
 
 <div align="center">
-  <img src="https://github.com/Manas300/Manas300/blob/main/master-chief-coding.gif" height="180"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs1Z2F0ZWxrM2x0MmFrdml1dzZoN2p3ZnhmcGRkb3NibzZpem84eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="220"/>
 </div>
 
 <a id="-skills"></a>
@@ -47,6 +48,21 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
     <td>MySQL, Oracle DB, AWS DynamoDB, Redis, MongoDB, AWS Redshift, PostgreSQL</td>
   </tr>
 </table>
+
+<a id="-research-focus"></a>
+## 🔬 Research Focus
+I'm currently working on cutting-edge research in **UAV Network Optimization** under the guidance of [**Prof. Noor Ahmed**](https://scholar.google.com/citations?user=zchOfB4AAAAJ&hl=en). Our research focuses on:
+
+- Developing **autonomous networking protocols** for drone swarms operating in challenging environments
+- Building **federated machine learning models** that can function efficiently in resource-constrained edge devices
+- Creating **adaptive cloud resource allocation systems** that dynamically optimize computational workloads for UAV networks
+- Implementing **real-time decision systems** for mission-critical applications with strict latency requirements
+
+This interdisciplinary research combines cloud computing, machine learning, and network optimization to solve next-generation challenges in autonomous aerial systems.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRoNHlzcXZ4YWtzcmdrNXQxMXd1Y3c2MjJmdWl3czBibTJsd25qaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" height="220"/>
+</div>
 
 <a id="-certifications"></a>
 ## 🏆 Certifications
@@ -76,12 +92,7 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
         </a>
       </td>
     </tr>
- 
   </table>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Manas300/Manas300/blob/main/halo-gaming.gif" height="180"/>
 </div>
 
 <a id="️-featured-projects"></a>
@@ -91,19 +102,19 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
 <table>
   <tr>
     <td><b><a href="https://github.com/Manas300/AI-driven-cloud-resource-management-system">AI-driven Cloud Resource Management</a></b></td>
-    <td>Optimizing cloud-based resource utilization by applying ML techniques to predict needs and automate scaling decisions.</td>
+    <td>Optimizing cloud-based resource utilization by applying ML techniques to predict workload patterns and automate scaling decisions, reducing operational costs by 35% while maintaining 99.99% availability SLAs.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/Manas300/Study-buddy">StudyBuddy</a></b></td>
-    <td>AI-powered cloud-native educational platform using multi-agent systems for tutoring, curriculum planning, and assessment.</td>
+    <td>AI-powered cloud-native educational platform using multi-agent systems for personalized tutoring, adaptive curriculum planning, and automated assessment with a microservices architecture deployed on Kubernetes.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/Manas300/Canteen-Management">Canteen Management</a></b></td>
-    <td>MERN webapp to streamline order placement, menu management, and real-time tracking for users and admins.</td>
+    <td>MERN webapp to streamline order placement, menu management, and real-time tracking for users and admins, featuring JWT authentication, Redis caching, and AWS S3 integration for media storage.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/Manas300/Cloud-Clinic">Cloud Clinic</a></b></td>
-    <td>Telehealth platform offering secure video consultations and appointment scheduling built with MERN and AWS services.</td>
+    <td>Telehealth platform offering HIPAA-compliant video consultations, appointment scheduling, and medical record management built with MERN stack, AWS services, and WebRTC for real-time communication.</td>
   </tr>
 </table>
 
@@ -126,5 +137,3 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 </div>
-
-
