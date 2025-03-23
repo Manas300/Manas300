@@ -40,6 +40,9 @@ __*Note: some projects are works in progress and will be updated regularly*__
 **[/AIdrivenCloudResourceManagementSystem :](https://github.com/Manas300/AI-driven-cloud-resource-management-system)** Optimizing cloud-based resource utilization by applying ML techniques.  
 **[/StudyBuddy:](https://github.com/Manas300/Study-buddy)** AI-powered cloud-native educational platform using multi-agent systems for tutoring, curriculum planning, and assessment.
 **[/CanteenManagement:](https://github.com/Manas300/Canteen-Management)** MERN webapp to streamline order placement, menu management, and real-time tracking for users and admins.
+**[/CloudClinic:](https://github.com/Manas300/Cloud-Clinic)** Telehealth platform offering secure video consultations, appointment scheduling built with MERN and AWS services.
+
+
 
 
 
