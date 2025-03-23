@@ -76,11 +76,7 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="3">
-        <b>DevOps Professional Certificate by PagerDuty and LinkedIn</b>
-      </td>
-    </tr>
+ 
   </table>
 </div>
 
