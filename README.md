@@ -11,24 +11,24 @@
 </div>
 <hr/>
 
-## 📋 Table of Contents  
-1. [🚀 Introduction](#-introduction)
-2. [💻 Skills](#-skills)
-3. [🔬 Research Focus](#-research-focus)
-4. [🏆 Certifications](#-certifications)
-5. [🗂️ Featured Projects](#️-featured-projects)
-6. [🔗 Connect With Me](#-connect-with-me)
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Skills](#skills)
+3. [Research Focus](#research-focus)
+4. [Certifications](#certifications)
+5. [Featured Projects](#featured-projects)
+6. [Connect With Me](#connect-with-me)
 
-<a id="-introduction"></a>
-## 🚀 Introduction
-I'm a Master's student in Computer Science at **Stevens Institute of Technology** 🎓. I specialize in **cloud architecture ☁️**, **MLOps 🤖**, **backend engineering 💻**, and **full-stack development 🌐**. With extensive expertise in **AWS 🌟**, **Kubernetes 🐳**, and **predictive modeling 📊**, I focus on building highly scalable, resilient solutions that optimize computational workflows and deliver exceptional performance at scale 🚀. My passion lies in developing intelligent systems that leverage machine learning to solve complex engineering challenges, particularly in distributed and resource-constrained environments.
+<a id="introduction"></a>
+## Introduction
+I'm a Master's student in Computer Science at **Stevens Institute of Technology**. I specialize in **cloud architecture**, **MLOps**, **backend engineering**, and **full-stack development**. With extensive expertise in **AWS**, **Kubernetes**, and **predictive modeling**, I focus on building highly scalable, resilient solutions that optimize computational workflows and deliver exceptional performance at scale. My passion lies in developing intelligent systems that leverage machine learning to solve complex engineering challenges, particularly in distributed and resource-constrained environments.
 
 <div align="center">
   <img src="https://media.giphy.com/media/iFU7R8rH4CiUUcHzk9/giphy.gif?cid=790b7611h4e97qbbfbmd6to3i3aeldoedgjt2ro0yaa6br9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220"/>
 </div>
 
-<a id="-skills"></a>
-## 💻 Skills
+<a id="skills"></a>
+## Skills
 
 <table>
   <tr>
@@ -49,8 +49,8 @@ I'm a Master's student in Computer Science at **Stevens Institute of Technology*
   </tr>
 </table>
 
-<a id="-research-focus"></a>
-## 🔬 Research Focus
+<a id="research-focus"></a>
+## Research Focus
 I'm currently working on cutting-edge research in **UAV Network Optimization** under the guidance of [**Prof. Noor Ahmed**](https://scholar.google.com/citations?user=zchOfB4AAAAJ&hl=en). Our research focuses on:
 
 - Developing **autonomous networking protocols** for drone swarms operating in challenging environments
@@ -64,8 +64,8 @@ This interdisciplinary research combines cloud computing, machine learning, and 
   <img src="https://media.giphy.com/media/1jWbzlKAweG85mBzh1/giphy.gif?cid=790b76118q2tvzd9af15v73hk8vp891kzino8lpe6mtm61o3&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220"/>
 </div>
 
-<a id="-certifications"></a>
-## 🏆 Certifications
+<a id="certifications"></a>
+## Certifications
 
 <div align="center">
   <table>
@@ -95,8 +95,8 @@ This interdisciplinary research combines cloud computing, machine learning, and 
   </table>
 </div>
 
-<a id="️-featured-projects"></a>
-## 🗂️ Featured Projects
+<a id="featured-projects"></a>
+## Featured Projects
 > *Note: Some projects are works in progress and will be updated regularly*
 
 <table>
@@ -118,8 +118,8 @@ This interdisciplinary research combines cloud computing, machine learning, and 
   </tr>
 </table>
 
-<a id="-connect-with-me"></a>
-## 🔗 Connect With Me
+<a id="connect-with-me"></a>
+## Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/manas300">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
