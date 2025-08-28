@@ -1,127 +1,71 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manas%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Architect+%7C+MLOps+Engineer;Full-Stack+Developer+%7C+AI+Researcher;Building+the+Future+with+Code+%26+AI;Stevens+Institute+of+Technology" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200"/>
-</div>
+<div align="center" valign="center">
+  <img src="https://media.giphy.com/media/GExBk9r9lP9LN5j2H5/giphy.gif?cid=790b7611e7cabqrz8yt24ifnb3dlfyzyosorv7lwiy2aoo5f&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" height="60" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=FDA620CD&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Manas's+Github!" alt="Typing SVG" /></a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlxd3drbDQydHUxMHZpNncyOHA0aDhiYnl3NmQ5dndyNHYyeGpxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9oIi9pNflb395seKPP/giphy.gif" width="60" height="60" />
+</div>  
 
 <div align="center">
   <a href="https://hits.sh/github.com/Manas300/hits/">
-    <img alt="Profile Views" src="https://hits.sh/github.com/Manas300/hits.svg?style=for-the-badge&logo=github&color=brightgreen"/>
+    <img alt="Visitor #" src="https://hits.sh/github.com/Manas300/hits.svg?color=d1e6c2"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Manas300&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
 <hr/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🌟 Table of Contents  
-<div align="center">
-
-| 🚀 [About Me](#introduction) | 💻 [Tech Stack](#skills) | 🔬 [Research](#research-focus) | 🏆 [Certifications](#certifications) | 🗂️ [Projects](#featured-projects) | 🔗 [Connect](#connect-with-me) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Skills](#skills)
+3. [Research Focus](#research-focus)
+4. [Certifications](#certifications)
+5. [Featured Projects](#featured-projects)
+6. [Connect With Me](#connect-with-me)
 
 <a id="introduction"></a>
-## 🚀 About Me
+## Introduction
+I'm a Master's student in Computer Science at **Stevens Institute of Technology**. I specialize in **cloud architecture**, **MLOps**, **backend engineering**, and **full-stack development**. With extensive expertise in **AWS**, **Kubernetes**, and **predictive modeling**, I focus on building highly scalable, resilient solutions that optimize computational workflows and deliver exceptional performance at scale. My passion lies in developing intelligent systems that leverage machine learning to solve complex engineering challenges, particularly in distributed and resource-constrained environments.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Manas+👋;Cloud+Architect+%26+AI+Enthusiast;Always+learning%2C+always+building!" alt="Typing SVG" />
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 **Master's Student** in Computer Science at **Stevens Institute of Technology**  
-☁️ **Cloud Architecture** & **MLOps** specialist  
-🤖 **AI/ML Engineer** building intelligent systems  
-🌐 **Full-Stack Developer** creating scalable solutions  
-
-### What drives me:
-- 🔥 **Passion**: Developing intelligent systems that solve real-world problems
-- 🎯 **Focus**: Building highly scalable, resilient cloud-native solutions  
-- 🚀 **Mission**: Optimizing computational workflows for maximum performance
-- 🌟 **Specialty**: Machine learning in distributed & resource-constrained environments
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas300&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://media.giphy.com/media/iFU7R8rH4CiUUcHzk9/giphy.gif?cid=790b7611h4e97qbbfbmd6to3i3aeldoedgjt2ro0yaa6br9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220"/>
 </div>
 
 <a id="skills"></a>
-## 💻 Tech Stack & Skills
+## Skills
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
-
-### 🚀 Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cs,dotnet,typescript,bash,java,go&theme=dark" />
-</div>
-
-### 🛠️ Frameworks & Libraries  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,django,flask,react,tensorflow,bootstrap&theme=dark" />
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,jenkins,nginx,terraform&theme=dark" />
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas300&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>Python, JavaScript, C#, .NET, TypeScript, Bash, Java, Go</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks & Libraries</b></td>
+    <td>Next.js, Scikit Learn, Nmap, Django, Bootstrap, Flask, React.js, TensorFlow, PyTorch, PySpark</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td>AWS, GCP, Azure, Databricks, Kubernetes, Jenkins, Nginx, Apache Airflow, Terraform, Selenium</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>MySQL, Oracle DB, AWS DynamoDB, Redis, MongoDB, AWS Redshift, PostgreSQL</td>
+  </tr>
+</table>
 
 <a id="research-focus"></a>
-## 🔬 Research Focus
+## Research Focus
+I'm currently working on cutting-edge research in **UAV Network Optimization** under the guidance of [**Prof. Noor Ahmed**](https://scholar.google.com/citations?user=zchOfB4AAAAJ&hl=en). Our research focuses on:
+
+- Developing **autonomous networking protocols** for drone swarms operating in challenging environments
+- Building **federated machine learning models** that can function efficiently in resource-constrained edge devices
+- Creating **adaptive cloud resource allocation systems** that dynamically optimize computational workloads for UAV networks
+- Implementing **real-time decision systems** for mission-critical applications with strict latency requirements
+
+This interdisciplinary research combines cloud computing, machine learning, and network optimization to solve next-generation challenges in autonomous aerial systems.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" height="200"/>
-</div>
-
-### 🚁 UAV Network Optimization Research
-Working on cutting-edge research under the guidance of [**Prof. Noor Ahmed**](https://scholar.google.com/citations?user=zchOfB4AAAAJ&hl=en)
-
-<div align="left">
-
-🔹 **Autonomous Networking Protocols** - Developing intelligent protocols for drone swarms in challenging environments  
-🔹 **Federated Machine Learning** - Building ML models for resource-constrained edge devices  
-🔹 **Adaptive Cloud Resource Allocation** - Dynamic optimization of computational workloads for UAV networks  
-🔹 **Real-time Decision Systems** - Mission-critical applications with strict latency requirements  
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Combining+Cloud+Computing+%2B+Machine+Learning+%2B+Network+Optimization;Solving+Next-Generation+Challenges+in+Autonomous+Aerial+Systems" alt="Research Focus" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="200"/>
+  <img src="https://media.giphy.com/media/1jWbzlKAweG85mBzh1/giphy.gif?cid=790b76118q2tvzd9af15v73hk8vp891kzino8lpe6mtm61o3&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220"/>
 </div>
 
 <a id="certifications"></a>
-## 🏆 Certifications & Achievements
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200"/>
-</div>
+## Certifications
 
 <div align="center">
   <table>
@@ -130,91 +74,52 @@ Working on cutting-edge research under the guidance of [**Prof. Noor Ahmed**](ht
         <a href="https://www.credly.com/badges/84eb1fea-4de2-4b42-bb71-07e84439b70c/linked_in_profile">
           <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150px">
           <br>
-          <b>🏗️ AWS Solutions Architect</b>
-          <br>
-          <sub>Associate Level</sub>
+          <b>AWS Certified Solutions Architect - Associate </b>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="https://www.credly.com/earner/earned/badge/6355ce01-cd25-4443-9efd-ed83c225b08a">
           <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150px">
           <br>
-          <b>🤖 AWS Machine Learning</b>
-          <br>
-          <sub>Specialty Certification</sub>
+          <b>AWS Certified Machine Learning - Specialty</b>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="https://credentials.databricks.com/3b41a70e-d9d1-46ed-9393-ecfdb74fd276#acc.uLNwsc3B">
           <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" width="150px">
           <br>
-          <b>📊 Databricks Fundamentals</b>
-          <br>
-          <sub>Lakehouse Platform</sub>
+          <b>Databricks Fundamentals</b>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manas300&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
-
 <a id="featured-projects"></a>
-## 🗂️ Featured Projects
+## Featured Projects
+> *Note: Some projects are works in progress and will be updated regularly*
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
-</div>
-
-> 🚀 *Building the future, one commit at a time!*
-
-<div align="center">
-
-### 🤖 AI-Driven Cloud Resource Management
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=AI-driven-cloud-resource-management-system&theme=radical&hide_border=true)](https://github.com/Manas300/AI-driven-cloud-resource-management-system)
-
-**🎯 Impact**: 35% cost reduction • 99.99% availability SLA  
-**🛠️ Tech**: Machine Learning, Cloud Architecture, Auto-scaling  
-
----
-
-### 📚 StudyBuddy - AI Educational Platform  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=Study-buddy&theme=radical&hide_border=true)](https://github.com/Manas300/Study-buddy)
-
-**🎯 Features**: Multi-agent AI tutoring, Adaptive learning, Kubernetes deployment  
-**🛠️ Tech**: Microservices, AI/ML, Cloud-native architecture  
-
----
-
-### 🍽️ Canteen Management System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=Canteen-Management&theme=radical&hide_border=true)](https://github.com/Manas300/Canteen-Management)
-
-**🎯 Features**: Real-time tracking, JWT auth, Redis caching  
-**🛠️ Tech**: MERN Stack, AWS S3, Real-time updates  
-
----
-
-### 🏥 Cloud Clinic - Telehealth Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=Cloud-Clinic&theme=radical&hide_border=true)](https://github.com/Manas300/Cloud-Clinic)
-
-**🎯 Features**: HIPAA-compliant, Video consultations, Medical records  
-**🛠️ Tech**: MERN Stack, AWS Services, WebRTC  
-
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Manas300&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
+<table>
+  <tr>
+    <td><b><a href="https://github.com/Manas300/AI-driven-cloud-resource-management-system">AI-driven Cloud Resource Management</a></b></td>
+    <td>Optimizing cloud-based resource utilization by applying ML techniques to predict workload patterns and automate scaling decisions, reducing operational costs by 35% while maintaining 99.99% availability SLAs.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Manas300/Study-buddy">StudyBuddy</a></b></td>
+    <td>AI-powered cloud-native educational platform using multi-agent systems for personalized tutoring, adaptive curriculum planning, and automated assessment with a microservices architecture deployed on Kubernetes.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Manas300/Canteen-Management">Canteen Management</a></b></td>
+    <td>MERN webapp to streamline order placement, menu management, and real-time tracking for users and admins, featuring JWT authentication, Redis caching, and AWS S3 integration for media storage.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Manas300/Cloud-Clinic">Cloud Clinic</a></b></td>
+    <td>Telehealth platform offering HIPAA-compliant video consultations, appointment scheduling, and medical record management built with MERN stack, AWS services, and WebRTC for real-time communication.</td>
+  </tr>
+</table>
 
 <a id="connect-with-me"></a>
-## 🔗 Let's Connect & Collaborate!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
-
+## Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/manas300">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -225,20 +130,4 @@ Working on cutting-edge research under the guidance of [**Prof. Noor Ahmed**](ht
   <a href="https://twitch.tv/manas300">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!;Open+to+collaborations+and+opportunities!" alt="Closing Message" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manas300&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Manas300?label=Followers&style=flat-square&color=blue" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/Manas300?label=Stars&style=flat-square&color=blue" alt="GitHub stars"/>
 </div>
