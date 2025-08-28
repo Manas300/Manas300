@@ -143,44 +143,82 @@ I'm currently working on cutting-edge research in **UAV Network Optimization** u
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Building+the+Future+with+Code;AI+%2B+Cloud+%2B+Innovation;From+Concept+to+Production" alt="Projects" />
 </div>
 
-> 🚀 *Building the future, one commit at a time!*
+<br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI-Driven Cloud Resource Management
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=AI-driven-cloud-resource-management-system&theme=radical&hide_border=true)](https://github.com/Manas300/AI-driven-cloud-resource-management-system)
+<div align="center">
+<a href="https://github.com/Manas300/AI-driven-cloud-resource-management-system">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="200"/>
+</a>
+</div>
 
 **🎯 Impact**: 35% cost reduction • 99.99% availability SLA  
 **🛠️ Tech**: Machine Learning, Cloud Architecture, Auto-scaling  
+**📊 Status**: Production Ready  
 
----
+[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas300/AI-driven-cloud-resource-management-system)
 
-### 📚 StudyBuddy - AI Educational Platform  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=Study-buddy&theme=radical&hide_border=true)](https://github.com/Manas300/Study-buddy)
+</td>
+<td width="50%" valign="top">
+
+### 📚 StudyBuddy - AI Educational Platform
+<div align="center">
+<a href="https://github.com/Manas300/Study-buddy">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="200"/>
+</a>
+</div>
 
 **🎯 Features**: Multi-agent AI tutoring, Adaptive learning, Kubernetes deployment  
 **🛠️ Tech**: Microservices, AI/ML, Cloud-native architecture  
+**📊 Status**: In Development  
 
----
+[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas300/Study-buddy)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🍽️ Canteen Management System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=Canteen-Management&theme=radical&hide_border=true)](https://github.com/Manas300/Canteen-Management)
+<div align="center">
+<a href="https://github.com/Manas300/Canteen-Management">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" height="200"/>
+</a>
+</div>
 
 **🎯 Features**: Real-time tracking, JWT auth, Redis caching  
 **🛠️ Tech**: MERN Stack, AWS S3, Real-time updates  
+**📊 Status**: Live & Running  
 
----
+[![View Project](https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas300/Canteen-Management)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 Cloud Clinic - Telehealth Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas300&repo=Cloud-Clinic&theme=radical&hide_border=true)](https://github.com/Manas300/Cloud-Clinic)
+<div align="center">
+<a href="https://github.com/Manas300/Cloud-Clinic">
+<img src="https://media.giphy.com/media/l378bu6ZYmzS6nBrW/giphy.gif" width="300" height="200"/>
+</a>
+</div>
 
 **🎯 Features**: HIPAA-compliant, Video consultations, Medical records  
 **🛠️ Tech**: MERN Stack, AWS Services, WebRTC  
+**📊 Status**: Production Ready  
 
-</div>
+[![View Project](https://img.shields.io/badge/View_Project-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas300/Cloud-Clinic)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Each+project+solves+real-world+problems;Built+with+modern+tech+stacks;Scalable+and+production-ready!" alt="Project Philosophy" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -201,22 +239,10 @@ I'm currently working on cutting-edge research in **UAV Network Optimization** u
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas300&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Activity Overview
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manas300&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas300&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Manas300/Manas300/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas300&theme=radical&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 ## 💫 Fun Facts About Me
@@ -268,14 +294,6 @@ I'm currently working on cutting-edge research in **UAV Network Optimization** u
   <a href="https://twitch.tv/manas300">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!;Open+to+collaborations+and+opportunities!" alt="Closing Message" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
 ---
