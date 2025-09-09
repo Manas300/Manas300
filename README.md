@@ -110,7 +110,7 @@ I'm currently working on cutting-edge research in **UAV Network Optimization** u
           <sub>Associate Level</sub>
         </a>
       </td>
-      <td align="center" width="33%">
+<!--       <td align="center" width="33%">
         <a href="https://www.credly.com/earner/earned/badge/6355ce01-cd25-4443-9efd-ed83c225b08a">
           <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150px">
           <br>
@@ -118,7 +118,7 @@ I'm currently working on cutting-edge research in **UAV Network Optimization** u
           <br>
           <sub>Specialty Certification</sub>
         </a>
-      </td>
+      </td> -->
       <td align="center" width="33%">
         <a href="https://credentials.databricks.com/3b41a70e-d9d1-46ed-9393-ecfdb74fd276#acc.uLNwsc3B">
           <img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png" width="150px">
